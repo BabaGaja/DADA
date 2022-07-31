@@ -1,5 +1,26 @@
-git clone https://github.com/BabaGaja/DADA.git
+DaDa-Sabbir 
+<==> pkg update && pkg upgrade
 
-cd DADA
+<==> pkg install git
 
-python Dada-Sabbir.py
+<==> pkg install python
+
+<==> pkg install python2
+
+<==> pip2 install requests
+
+<==> pip2 install mechanize
+
+<==> pip2 install lolcat
+
+<==> pip2 install bs4
+
+<==> git clone https://github.com/BabaGaja/DADA.git
+
+<==> cd DADA
+
+<==> python Dada-Sabbir.py
+
+
+
+
